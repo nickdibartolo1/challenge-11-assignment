@@ -2,22 +2,32 @@
 # Challenge-11-assignment/module 13: Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Description
-An application designed for a company to be able to edit or update their employee database from adding an employee to changing their roles.
+An application designed for a the backend of an Ecommerce website to provide services of buying goods.
+## User Story
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
 ## Table of Contents
 - [Title](#title)
 - [Description](#description)
+- [User Story](#User-story)
 - [Table of Contents](#table-of-contents)
 - [Applications Used](#Applications-Used)
 - [Installation](#installation)
+- [Video](#video)
 - [Contributing](#contributing)
 ## Applications Used
 JavaScript
 Node.js
-Inquirer
+Express
+SQL
 MySQL2
+Sequelize
 .ENV
 ## Installation
 Node.js installation is required for being able to command the terminal.
-Inquirer and MySQL2 is required for the application to run.
+Express, MySQL2, and Sequelize is required for the application to run.
+## Video
+x
 ## Contributing
 Nick DiBartolo
