@@ -2,7 +2,7 @@
 # Challenge-11-assignment/module 13: Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Description
-An application designed for a the backend of an Ecommerce website to provide services of buying goods.
+An application designed for the backend of an Ecommerce website to provide services of buying goods.
 ## User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
