@@ -28,6 +28,6 @@ Sequelize
 Node.js installation is required for being able to command the terminal.
 Express, MySQL2, and Sequelize is required for the application to run.
 ## Video
-x
+https://drive.google.com/file/d/19FgK1VF3ZmBahrKXuwMillPNHx_f4akc/view
 ## Contributing
 Nick DiBartolo
